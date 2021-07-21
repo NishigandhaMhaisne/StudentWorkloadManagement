@@ -13,5 +13,5 @@ Student Workload Management
 3. Chat (help)
 4. Upload documents related to task for reference
 
-![alt text](/Users/nishigandhamhaisne/IdeaProjects/StudentWorkloadManagement/Student_workload_management.png)
+![alt text](Student_workload_management.png)
 
