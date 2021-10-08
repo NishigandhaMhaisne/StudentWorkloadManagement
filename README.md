@@ -9,7 +9,7 @@ Student Workload Management
         a. Tasks (Manage Tasks)
         b. Events
         c. Pinned Events
-        d. Options(create new group, filter current tasks)
+        d. Options(create new group, filter current tasks) 
         e. Progress Report (based on tasks)
 3. Chat (help)
 4. Upload documents related to task for reference
